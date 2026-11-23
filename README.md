@@ -31,7 +31,7 @@ Yes, with no limits and no ads. When ReelTier takes you to a studio's official s
 
 ## Requirements
 
-Windows 10 or 11, 64-bit. ffmpeg (the installer tells you how to get it with one command). A VR headset is optional.
+Windows 10 or 11, 64-bit. Everything it needs comes in the installer (including ffmpeg). A VR headset is optional.
 
 ## Support
 
