@@ -27,7 +27,7 @@ Everything runs on your PC: videos, ratings, tags, history and keys never leave 
 
 ## Is it free?
 
-Yes, with no limits and no ads. When ReelTier takes you to a studio's official site and that studio has an affiliate program, the link carries ReelTier's code: if you subscribe, ReelTier gets a share at no extra cost to you. Those links are always marked "Affiliate".
+Yes, with no limits and no ads. When ReelTier takes you to a studio's official site and that studio has an affiliate program, the link carries ReelTier's code: if you subscribe, ReelTier gets a share at no extra cost to you. It never changes what gets recommended: recommendations come only from your ratings and tags.
 
 ## Requirements
 
