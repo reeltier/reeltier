@@ -1,0 +1,11 @@
+ReelTier — Freeware License
+
+Copyright (c) 2026 ReelTier (https://reeltier.com)
+
+You may download, install and use ReelTier free of charge, on as many computers as you like, for personal use.
+
+You may not sell ReelTier, bundle it with other software for sale, or redistribute modified copies of it. You may share the official download link.
+
+ReelTier is provided "as is", without warranty of any kind. ReelTier only organizes files that you already have; you are responsible for the content you keep and for complying with the laws of your country. ReelTier is intended for adults (18+) only.
+
+Third-party components included in the installer (Python, ONNX Runtime, faster-whisper, OpenCV models and others) keep their own licenses. ffmpeg is not included.
