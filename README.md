@@ -8,16 +8,16 @@ ReelTier is a free, private organizer for VR and 2D adult video collections on W
 
 **[Download for Windows](https://github.com/reeltier/reeltier/releases/latest/download/ReelTier-Setup.exe)** · [Website](https://reeltier.com) · [What's new](https://reeltier.com/changelog) · [Guide](docs/GUIDE.md) · [Guía en castellano](docs/GUIA.md)
 
-Also with winget: `winget install ReelTier.ReelTier` (once the package is approved).
+Comparisons: [ReelTier vs XBVR](https://reeltier.com/vs/xbvr) · [ReelTier vs Stash](https://reeltier.com/vs/stash) · Guides: [a HereSphere library on Windows](https://reeltier.com/guides/heresphere-local-library) · [organize by rating](https://reeltier.com/guides/organize-vr-collection-by-rating)
 
 ## What it does
 
-- **Rate once, everything follows.** A rating from 6 to 10 keeps the video in that rating's folder; 1 to 5 goes to a trash folder you empty yourself. Undo with Ctrl+Z.
+- **Rate once, everything follows.** By default each rating from 6 to 10 has its own folder and 1 to 5 goes to a trash folder you empty yourself. The scale is yours: keep from any rating, 2 to 6 folders, one per rating or grouped. Undo with Ctrl+Z.
 - **Identifies scenes by file fingerprint** against StashDB, ThePornDB and FansDB (all optional, free keys) and fills in performers, studio, date and cover.
 - **Your headset is the remote.** Native libraries for HereSphere and DeoVR with covers, previews, markers, lists and tags in sync; funscripts; DLNA for TVs, consoles and Kodi.
 - **Duplicates:** identical files, the same scene in two qualities, and trimmed copies.
 - **Statistics and Tags:** what sets your taste apart from what's expected, what raises or lowers your ratings, and how it changes over time. Every tag filters everything.
-- **Recommendations** of scenes you don't have, each with a one-line reason ("+0.8 over your average").
+- **Recommendations** of scenes you don't have, each with a one-line reason ("+0.8 over your average"), plus your favorites' new releases (official sites and Pornhub) and a Deals page with current studio discounts.
 - **Actress and studio pages** with the scenes you're missing.
 - **Multi-user** with roles and PIN, `.nfo` export for Plex/Jellyfin/Kodi, Stash import, watermark reading, automatic subtitles.
 

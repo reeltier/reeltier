@@ -14,7 +14,7 @@ ReelTier ordena tu colección de videos: le ponés una nota a cada uno, se mueve
 ## 2. El día a día
 
 - **Hoy:** qué conviene hacer ahora (repetidos, videos sin nivel, coincidencias para mirar) y las novedades de tus actrices favoritas.
-- **Revisar → Poner nota:** el video en grande. Nota del 1 al 10, como en IMDb: tecla `1` a `9`, y `1` `0` seguidos para el 10. Del 6 al 10 el video se queda, cada nota en su carpeta (9 y 10 en la de los mejores); del 1 al 5 va a la papelera con esa nota. Al dejar de reproducir, el archivo se mueve.
+- **Revisar → Poner nota:** el video en grande. Nota del 1 al 10, como en IMDb: tecla `1` a `9`, y `1` `0` seguidos para el 10. De fábrica, del 6 al 10 el video se queda, cada nota en su carpeta, y del 1 al 5 va a la papelera con esa nota. La escala se cambia en Configurar › Escala de notas: desde qué nota se conserva y de 2 a 6 carpetas. Al dejar de reproducir, el archivo se mueve.
 - **Revisar → Coincidencias:** ReelTier buscó la escena en ThePornDB, StashDB y FansDB. `S` si es esa, `N` si no. Al aceptar, el archivo se renombra con los datos correctos.
 - **Revisar → Sin resolver:** lo que todavía nadie confirmó, con el motivo en palabras y botones para resolverlo en lote.
 - **Biblioteca:** todo, con filtros, vista previa al pasar el mouse y selección múltiple (Ctrl+clic).
